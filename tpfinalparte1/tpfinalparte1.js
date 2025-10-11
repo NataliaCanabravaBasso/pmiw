@@ -1,6 +1,6 @@
 //tp final parte 1
 // Braian Bailate - Natalia Canabrava Basso
-//aca va el link al video
+//https://youtu.be/K71lQpc46SM
 
 let estadoActual = 0;
 
@@ -294,3 +294,4 @@ function estiloBoton() {
   textFont("Georgia");
   fill(colorMarron);
 }
+
